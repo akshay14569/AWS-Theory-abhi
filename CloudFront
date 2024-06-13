@@ -1,0 +1,14 @@
+CloudFront
+
+What is Amazon CloudFront?
+Amazon CloudFront is a Content Delivery Network (CDN) service provided by AWS that accelerates content delivery by distributing it across a network of edge locations.
+
+How does CloudFront work?
+CloudFront caches content in edge locations globally. When a user requests content, CloudFront delivers it from the nearest edge location, reducing latency and improving performance.
+
+What are edge locations in CloudFront?
+Edge locations are data centers globally distributed by CloudFront. They store cached content and serve it to users, minimizing the distance data needs to travel.
+
+What are the benefits of using CloudFront with Amazon S3?
+Using CloudFront with Amazon S3 reduces latency, offloads traffic from your origin server, and improves global content delivery.
+
