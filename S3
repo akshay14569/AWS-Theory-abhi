@@ -8,3 +8,15 @@ S3 versioning is a feature that allows you to preserve, retrieve, and restore ev
 
 How can you secure data in Amazon S3?
 You can secure data in Amazon S3 by using access control mechanisms, like bucket policies and IAM policies, and by enabling encryption using server-side encryption or client-side encryption.
+
+How can you control access to objects in S3?
+Access to S3 objects can be controlled using bucket policies, access control lists (ACLs), and IAM (Identity and Access Management) policies. You can define who can read, write, and delete objects.
+
+How does S3 provide data durability?
+S3 provides 99.999999999% (11 9's) durability by automatically replicating objects across multiple facilities within a region.
+
+What is Amazon S3 Glacier used for?
+Amazon S3 Glacier is a storage service designed for data archiving. It offers lower-cost storage with retrieval times ranging from minutes to hours.
+
+What is the purpose of S3 event notifications?
+S3 event notifications allow you to trigger AWS Lambda functions or SQS queues when certain events, like object creation or deletion, occur in an S3 bucket.
