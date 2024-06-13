@@ -20,3 +20,4 @@ Group is the collection of people with similar access.
 
 What is Policies?
 Policies are JSON documents that defines permission, you can attached the policies to user, role and group.
+
