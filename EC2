@@ -1,9 +1,28 @@
 EC2 - Elastic Compute Cloud
 
 What is EC2
-EC2 is Elastic Compute Cloud thats provides secure and resizable compute capacity in the cloud. It allos user to create, configure and manage virtual servers in the AWS cloud.
+EC2 is Elastic Compute Cloud thats provides secure and resizable compute capacity in the cloud. It allos user to create, 
+configure and manage virtual servers in the AWS cloud.
 
 What are different types of Instance types?
-There are 5 types of instance storage, General Purpose, Memory Optimized, Compute Optimized, Storage Optimized and Accelerated Computing.
+There are 5 types of instance storage, General Purpose, Memory Optimized, Compute Optimized, Storage Optimized and Accelerated 
+Computing.
 
 What is General Purpose?
+General Purpose instances are designed to deliver a balance of compute, memory, and network resources. They are suitable for a 
+wide range of applications, including web servers, small databases, development and test environments, and more.
+
+What is Memory Optimized?
+Memory Optimized instances are designed to handle memory-intensive workloads. They are suitable for applications that require 
+large amounts of memory.
+
+What is Compute optimized?
+Compute Optimized instances provide a higher ratio of compute power to memory.
+
+What is Storage optimized?
+Storage Optimized instances are optimized for applications that require high, sequential read and write access to large datasets.
+
+Explain the differences between on-demand, reserved, and spot instances.
+On-Demand Instances: Pay-as-you-go pricing with no upfront commitment.
+Reserved Instances: Provides capacity reservation at a lower cost in exchange for a commitment.
+Spot Instances: Allows users to bid on unused EC2 capacity, potentially leading to significantly lower costs.
