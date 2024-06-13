@@ -1,0 +1,10 @@
+Cloud Trail
+
+What is AWS CloudTrail?
+AWS CloudTrail is a service that provides governance, compliance, and audit capabilities by recording and storing API calls made on your AWS account.
+
+What type of information does AWS CloudTrail record?
+CloudTrail records API calls, capturing information about who made the call, when it was made, which service was accessed, and what actions were taken.
+
+What is the purpose of CloudTrail log files?
+CloudTrail log files contain records of API calls and events, which can be used for security analysis, compliance, auditing, and troubleshooting.
