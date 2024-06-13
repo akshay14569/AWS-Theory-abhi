@@ -1,0 +1,17 @@
+DynamoDB
+
+What is Amazon DynamoDB?
+Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability. It's designed to handle massive amounts of structured data across various use cases.
+
+How does Amazon DynamoDB work?
+DynamoDB stores data in tables, each with a primary key and optional secondary indexes. It automatically replicates data across multiple Availability Zones for high availability and durability.
+
+What are the key features of Amazon DynamoDB?
+Key features of DynamoDB include automatic scaling, multi-master replication, global tables for global distribution, support for ACID transactions, and seamless integration with AWS services.
+
+What is the primary key in Amazon DynamoDB?
+The primary key is used to uniquely identify items within a table. It consists of a partition key (and optional sort key), which determines how data is distributed and stored.
+
+What is the difference between Amazon DynamoDB and Amazon S3?
+Amazon DynamoDB is a NoSQL database service optimized for high-performance, low-latency applications with structured data. Amazon S3 is an object storage service used for storing files, images, videos, and more.
+
