@@ -1,0 +1,22 @@
+ELB - Elastic Load Balancers
+
+What is an Elastic Load Balancer (ELB)?
+An Elastic Load Balancer (ELB) is a managed AWS service that automatically distributes incoming application traffic across multiple targets, such as Amazon EC2 instances, containers, or IP addresses, to ensure high availability and fault tolerance.
+
+What are the three types of Elastic Load Balancers available in AWS?
+There are three types of Elastic Load Balancers: Application Load Balancer (ALB), Network Load Balancer (NLB), and Gateway Load Balancer (GWLB).
+
+What is the main difference between Application Load Balancer (ALB) and Network Load Balancer (NLB)?
+ALB operates at the application layer and supports advanced routing, including content-based routing and path-based routing. NLB operates at the transport layer and provides ultra-low latency and high throughput.
+
+What is a target group in Elastic Load Balancing?
+A target group is a logical grouping of targets (such as EC2 instances) registered with a load balancer. ALB and NLB use target groups to route requests to registered targets.
+
+How does health checking work in Elastic Load Balancers?
+Elastic Load Balancers perform health checks on registered targets to ensure they are available to receive traffic. Unhealthy targets are temporarily removed from rotation.
+
+Can you associate Elastic IP addresses with Elastic Load Balancers?
+No, Elastic Load Balancers do not have static IP addresses. They have DNS names that are used to route traffic to registered targets.
+
+How can you configure health checks for targets in Elastic Load Balancers?
+You can configure health checks by defining a health check path, interval, timeout, and thresholds. ELB sends periodic requests to targets to verify their health.
