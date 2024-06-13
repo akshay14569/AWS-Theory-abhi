@@ -1,0 +1,10 @@
+S3 - Simple Storage Service
+
+What is Amazon S3?
+Amazon Simple Storage Service (Amazon S3) is a scalable object storage service designed to store and retrieve any amount of data from anywhere on the web.
+
+What is S3 versioning?
+S3 versioning is a feature that allows you to preserve, retrieve, and restore every version of every object in a bucket. It helps protect against accidental deletion and overwrites.
+
+How can you secure data in Amazon S3?
+You can secure data in Amazon S3 by using access control mechanisms, like bucket policies and IAM policies, and by enabling encryption using server-side encryption or client-side encryption.
