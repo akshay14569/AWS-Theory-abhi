@@ -1,0 +1,22 @@
+IAM Identity Access Management
+
+What is IAM?
+IAM is Identity Access Management that allows to manage User, Group and Permission for accessing AWS resources. It provides centralized control over authentication and authorization.
+
+What is difference between Authentication and Authorizatio?
+Authentication is process to verify the identity of user or entity, while authorization is process of granting and denying the access to resources based on policies and permission.
+
+What are the IAM components?
+IAM components includes User, Role, Group and Policies.
+
+What is user?
+User represent the individual people wh needs the AWS access.
+
+What is Role?
+Role provides the temprorary access to external entity or services.
+
+What is Group?
+Group is the collection of people with similar access.
+
+What is Policies?
+Policies are JSON documents that defines permission, you can attached the policies to user, role and group.
