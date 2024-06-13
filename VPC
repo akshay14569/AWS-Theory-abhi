@@ -21,3 +21,6 @@ Network ACLs are stateless filters that control inbound and outbound traffic at 
 What is a VPN connection in Amazon VPC?
 A VPN connection allows you to securely connect your on-premises network to your Amazon VPC using encrypted tunnels over the public internet.
 
+What is a route table in Amazon VPC?
+A route table defines the rules for routing traffic within a VPC. It determines how traffic is directed between subnets and to external destinations.
+
