@@ -12,8 +12,12 @@ VPC subnets are segments of the VPC's IP address range. They allow you to isolat
 What is a VPC peering connection?
 VPC peering allows you to connect two VPCs together, enabling resources in different VPCs to communicate as if they were on the same network.
 
+How do security groups work in Amazon VPC?
+Security groups act as virtual firewalls for your instances, controlling inbound and outbound traffic. They can be associated with instances and control their network access.
+
 What are network access control lists (ACLs) in Amazon VPC?
 Network ACLs are stateless filters that control inbound and outbound traffic at the subnet level. They provide an additional layer of security to control traffic flow
 
 What is a VPN connection in Amazon VPC?
 A VPN connection allows you to securely connect your on-premises network to your Amazon VPC using encrypted tunnels over the public internet.
+
