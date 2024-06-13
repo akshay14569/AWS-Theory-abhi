@@ -1,0 +1,13 @@
+Lambda Function
+
+What is AWS Lambda?
+AWS Lambda is a serverless compute service that lets you run code without provisioning or managing servers. It automatically scales and manages the infrastructure required to run your code in response to events.
+
+What are the key benefits of using AWS Lambda?
+The benefits of AWS Lambda include automatic scaling, reduced operational overhead, cost efficiency (as you pay only for the compute time used), and the ability to build event-driven architectures.
+
+What is the maximum execution duration for a single AWS Lambda invocation?
+The maximum execution duration for a single Lambda invocation is 15 minutes.
+
+What types of events can trigger AWS Lambda functions?
+AWS Lambda functions can be triggered by various event sources, such as changes in Amazon S3 objects, updates to Amazon DynamoDB tables, HTTP requests through Amazon API Gateway, and more.
