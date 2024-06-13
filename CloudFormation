@@ -1,0 +1,19 @@
+CloudFormation
+
+What is AWS CloudFormation?
+AWS CloudFormation is a service that allows you to define and provision infrastructure as code, enabling you to create, update, and manage AWS resources in a declarative and automated way.
+
+What are the benefits of using AWS CloudFormation?
+Benefits of using AWS CloudFormation include infrastructure as code, automated resource provisioning, consistent deployments, version control, and support for template reuse.
+
+What is an AWS CloudFormation template?
+An AWS CloudFormation template is a JSON or YAML file that defines the AWS resources and their configurations needed for a particular stack.
+
+What is stack drift in AWS CloudFormation?
+Stack drift occurs when actual resources in a stack differ from the expected resources defined in the CloudFormation template.
+
+How does AWS CloudFormation work?
+AWS CloudFormation interprets templates and deploys the specified resources in the order defined, managing the provisioning, updating, and deletion of resources.
+
+What is a CloudFormation stack?
+A CloudFormation stack is a collection of AWS resources created and managed as a single unit, based on a CloudFormation template.
