@@ -1,0 +1,9 @@
+EC2 - Elastic Compute Cloud
+
+What is EC2
+EC2 is Elastic Compute Cloud thats provides secure and resizable compute capacity in the cloud. It allos user to create, configure and manage virtual servers in the AWS cloud.
+
+What are different types of Instance types?
+There are 5 types of instance storage, General Purpose, Memory Optimized, Compute Optimized, Storage Optimized and Accelerated Computing.
+
+What is General Purpose?
