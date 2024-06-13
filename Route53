@@ -1,0 +1,11 @@
+Route53
+
+What is Amazon Route 53?
+Amazon Route 53 is a scalable and highly available Domain Name System (DNS) web service that helps route end-user requests to AWS resources or external endpoints.
+
+What is DNS?
+DNS (Domain Name System) is a system that translates human-readable domain names into IP addresses, allowing computers to locate resources on the internet.
+
+What are health checks in Amazon Route 53?
+Health checks in Route 53 monitor the health and availability of your resources by periodically sending requests and verifying the responses.
+
