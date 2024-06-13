@@ -1,0 +1,19 @@
+RDS - Relational Database
+
+What is Amazon RDS?
+Amazon RDS is a managed relational database service that simplifies database setup, operation, and scaling. It supports various database engines like MySQL, PostgreSQL, Oracle, SQL Server, and Amazon Aurora.
+
+What are the key features of Amazon RDS?
+Amazon RDS offers automated backups, automated software patching, high availability through Multi-AZ deployments, read replicas for scaling read operations, and the ability to create custom database snapshots.
+
+How can you encrypt data in Amazon RDS?
+You can encrypt data at rest and in transit in Amazon RDS. Data at rest can be encrypted using Amazon RDS encryption or Amazon Aurora encryption, while data in transit can be encrypted using SSL.
+
+What is the difference between Amazon RDS and Amazon DynamoDB?
+Amazon RDS is a managed relational database service, while Amazon DynamoDB is a managed NoSQL database service. RDS supports SQL databases like MySQL and PostgreSQL, while DynamoDB is designed for fast and flexible NoSQL data storage.
+
+ How can you improve read performance in Amazon RDS?
+You can improve read performance by creating read replicas. Read replicas replicate data from the primary database and can be used to distribute read traffic.
+
+What is Amazon Aurora?
+Amazon Aurora is a MySQL and PostgreSQL-compatible relational database engine that provides high performance, availability, and durability. It's designed to be compatible with these engines while offering improved performance and features.
