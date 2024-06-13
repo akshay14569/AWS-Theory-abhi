@@ -1,0 +1,16 @@
+AWS CLI - AWS Command Line Interface
+
+What is the AWS Command Line Interface (CLI)?
+The AWS Command Line Interface (CLI) is a unified tool that allows you to interact with various AWS services using command-line commands.
+
+Why would you use the AWS CLI?
+The AWS CLI provides a convenient way to automate tasks, manage AWS resources, and interact with services directly from the command line, making it useful for scripting and administration.
+
+How do you install the AWS CLI?
+You can install the AWS CLI on various operating systems using package managers or by downloading the installer from the AWS website.
+
+What is the purpose of AWS CLI profiles?
+AWS CLI profiles allow you to manage multiple sets of AWS security credentials, making it easier to switch between different accounts and roles.
+
+How can you configure the AWS CLI with your credentials?
+You can configure the AWS CLI by running the aws configure command, where you provide your access key, secret key, default region, and output format.
