@@ -1,10 +1,19 @@
 VPC - Virtual Private Cloud
 
 What is Amazon Virtual Private Cloud (VPC)?
-Amazon VPC is a logically isolated section of the AWS Cloud where you can launch resources in a virtual network that you define. 
-It allows you to control your network environment, including IP addresses, subnets, and security settings.
+Amazon VPC is a logically isolated section of the AWS Cloud where you can launch resources in a virtual network that you define. It allows you to control your network environment, including IP addresses, subnets, and security settings.
 
 What are the key components of Amazon VPC?
-Key components of Amazon VPC include subnets, route tables, network access control lists (ACLs), security groups, and Virtual 
-Private Gateways (VPGs).
+Key components of Amazon VPC include subnets, route tables, network access control lists (ACLs), security groups, and Virtual Private Gateways (VPGs).
 
+What are VPC subnets?
+VPC subnets are segments of the VPC's IP address range. They allow you to isolate resources and control access by creating public and private subnets.
+
+What is a VPC peering connection?
+VPC peering allows you to connect two VPCs together, enabling resources in different VPCs to communicate as if they were on the same network.
+
+What are network access control lists (ACLs) in Amazon VPC?
+Network ACLs are stateless filters that control inbound and outbound traffic at the subnet level. They provide an additional layer of security to control traffic flow
+
+What is a VPN connection in Amazon VPC?
+A VPN connection allows you to securely connect your on-premises network to your Amazon VPC using encrypted tunnels over the public internet.
