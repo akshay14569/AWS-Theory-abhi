@@ -1,8 +1,7 @@
 OSI LAYERS
 
 PDNTSPA
-7. Application
- - End USer layer - Decide protocol  - HTTP/FTP/DNS/HTTPS
+7. Application Layer - End USer layer - Decide protocol  - HTTP/FTP/DNS/HTTPS
 6 Presentation Layer - (Syntax Layer) To secure and Encrypt date using - SSL,SSH,FTP,JPEG,MPEG.
 
 5. Session Layer - (Synch and Send to Port) - check the requests received from which port and send through (API, Winsock, sockets)  
