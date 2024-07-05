@@ -1,0 +1,16 @@
+OSI LAYERS
+
+PDNTSPA
+7. Application
+ - End USer layer - Decide protocol  - HTTP/FTP/DNS/HTTPS
+6 Presentation Layer - (Syntax Layer) To secure and Encrypt date using - SSL,SSH,FTP,JPEG,MPEG.
+
+5. Session Layer - (Synch and Send to Port) - check the requests received from which port and send through (API, Winsock, sockets)  
+ 
+4. Transport Layer  - Devide the requests in to small packets for faster delivery to network layer.
+ 
+3. Network Layer - Travel requests through multiple routers. (IP,ICMP, IPSec)
+
+2. Data Link Layer - Bridge to physical layer.
+
+1.Physical Layer - Conneted to Servers - (Fiber optic Cables, Wires)  
